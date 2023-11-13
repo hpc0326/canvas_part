@@ -6,7 +6,10 @@
     "start": "next start"
   },
   "dependencies": {
+    "canvas": "^2.11.2",
+    "jsdom": "^22.1.0",
     "next": "latest",
+    "paper-jsdom": "^0.12.17",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
